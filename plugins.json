@@ -1,0 +1,23 @@
+[
+    {
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lakshya9pro/batz",
+        "fileSize": 80157,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "kineflix"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "home",
+        "description": "Lorem ipsum",
+        "url": "https://raw.githubusercontent.com/lakshya9pro/batz/builds/home.cs3",
+        "name": "home"
+    }
+]
