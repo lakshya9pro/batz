@@ -1,5 +1,28 @@
 [
     {
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/animeworld.jpg",
+        "jarFileSize": 92733,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lakshya9pro/batz",
+        "fileSize": 26402,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "Kineflex"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "Cartoon"
+        ],
+        "version": 5,
+        "internalName": "Anime",
+        "jarUrl": "https://raw.githubusercontent.com/lakshya9pro/batz/builds/Anime.jar",
+        "description": "Anime/Cartoon in Hindi",
+        "url": "https://raw.githubusercontent.com/lakshya9pro/batz/builds/Anime.cs3",
+        "name": "Anime"
+    },
+    {
         "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lakshya9pro/batz",
