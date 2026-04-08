@@ -6,7 +6,7 @@ import com.lagradost.cloudstream3.plugins.CloudstreamPlugin
 @CloudstreamPlugin
 class AnimeWorldPlugin : BasePlugin() {
     override fun load() {
-        registerMainAPI(AnimeWorld())
+        registerMainAPI(Anime())
         registerExtractorAPI(Techinmind())
         registerExtractorAPI(Pixdrive())
         registerExtractorAPI(Ghbrisk())
