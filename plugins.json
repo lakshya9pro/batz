@@ -26,7 +26,7 @@
         "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lakshya9pro/batz",
-        "fileSize": 80157,
+        "fileSize": 80148,
         "status": 1,
         "language": "en",
         "authors": [
@@ -42,5 +42,25 @@
         "description": "Lorem ipsum",
         "url": "https://raw.githubusercontent.com/lakshya9pro/batz/builds/home.cs3",
         "name": "home"
+    },
+    {
+        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/CNC%20Verse/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lakshya9pro/batz",
+        "fileSize": 62945,
+        "status": 1,
+        "language": "in",
+        "authors": [
+            "Kineflix"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 52,
+        "internalName": "ott",
+        "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
+        "url": "https://raw.githubusercontent.com/lakshya9pro/batz/builds/ott.cs3",
+        "name": "ott"
     }
 ]
