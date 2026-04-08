@@ -9,7 +9,7 @@ import com.lagradost.cloudstream3.utils.ExtractorLinkType
 import com.lagradost.cloudstream3.utils.Qualities
 import com.lagradost.cloudstream3.app
 import com.lagradost.cloudstream3.utils.newExtractorLink
-import com.kineflex.AnimeWorld.Companion.API
+import com.kineflex.Anime.Companion.API
 import com.google.gson.JsonObject
 import com.google.gson.JsonParser
 import com.lagradost.cloudstream3.base64Decode
