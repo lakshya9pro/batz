@@ -1,0 +1,9 @@
+{
+  "name": "Kineflex",
+  "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/builds/ba.jpg",
+  "description": "All Language Contents",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/lakshya9pro/batz/builds/plugins.json"
+  ]
+}
