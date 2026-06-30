@@ -24,7 +24,8 @@ cloudstream {
     status = 1 // will be 3 if unspecified
     tvTypes = listOf(
         "Movie",
-        "TvSeries"
+        "TvSeries",
+"Live"
     )
 
     iconUrl = "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/CNC%20Verse/icon.png"
