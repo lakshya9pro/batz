@@ -27,7 +27,7 @@ cloudstream {
         "Live"
         )
 
-    requiresResources = false
+   requiresResources = true
     language = "en"
 
     // Random CC logo I found
