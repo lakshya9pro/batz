@@ -24,11 +24,10 @@ cloudstream {
     tvTypes = listOf(
           "Movie",
         "TvSeries",
-        "Anime",
-        "live"
+        "Live"
         )
 
-    requiresResources = true
+    requiresResources = false
     language = "en"
 
     // Random CC logo I found
