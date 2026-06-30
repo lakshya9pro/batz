@@ -2,6 +2,7 @@
     {
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/animeworld.jpg",
         "jarFileSize": 92205,
+        "fileHash": "sha256-3aad30b120965ebbb8a1c3a8c52ab6a363adb8513721513e4b0b60485914e328",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lakshya9pro/batz",
         "fileSize": 26364,
@@ -20,13 +21,15 @@
         "jarUrl": "https://raw.githubusercontent.com/lakshya9pro/batz/builds/Anime.jar",
         "description": "Anime/Cartoon in Hindi",
         "url": "https://raw.githubusercontent.com/lakshya9pro/batz/builds/Anime.cs3",
-        "name": "Anime"
+        "name": "Anime",
+        "jarHash": "sha256-597b2f744c4974c18077930b11f61fa68a51b5723a39f34e2a290947b23c58b6"
     },
     {
         "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png",
+        "fileHash": "sha256-c43da28c3610e914fc76772a46664af5ced6969b4f39626f5d38fe68b09af34b",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lakshya9pro/batz",
-        "fileSize": 80148,
+        "fileSize": 43647,
         "status": 1,
         "language": "en",
         "authors": [
@@ -35,16 +38,17 @@
         "tvTypes": [
             "Movie",
             "TvSeries",
-            "Anime"
+            "Live"
         ],
         "version": 1,
-        "internalName": "home",
+        "internalName": "dd",
         "description": "Lorem ipsum",
-        "url": "https://raw.githubusercontent.com/lakshya9pro/batz/builds/home.cs3",
-        "name": "home"
+        "url": "https://raw.githubusercontent.com/lakshya9pro/batz/builds/dd.cs3",
+        "name": "dd"
     },
     {
         "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/CNC%20Verse/icon.png",
+        "fileHash": "sha256-217c9c68e982f31d63de0e4bf30c7d6f96953412e39e595b60f79a4c461e731f",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lakshya9pro/batz",
         "fileSize": 62945,
@@ -55,7 +59,8 @@
         ],
         "tvTypes": [
             "Movie",
-            "TvSeries"
+            "TvSeries",
+            "Live"
         ],
         "version": 52,
         "internalName": "ott",
